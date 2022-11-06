@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL]()
+- Solution URL: [solution URL](https://www.frontendmentor.io/solutions/responsive-testimonials-grid-section-main-mnMlQ8u4yL)
 - Live Site URL: [live site URL](https://abdulelah-abacar.github.io/testimonials-grid-section/)
 
 ## My process
